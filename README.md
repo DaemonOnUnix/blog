@@ -1,2 +1,4 @@
-# blog
-Personal blog for daemononunix.re
+# DaemonOnUnix's blog
+
+In construction as I have much work now.
+
